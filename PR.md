@@ -5,3 +5,6 @@
 - [ ] No catch all exception without comments
 - [ ] Checking objectA state before calling objectA method
 - [ ] Don't follow coding style convention
+
+Fixed la
+
